@@ -3,7 +3,7 @@ import requests
 
 
 def push_message(send_key, title, body):
-    url = 'https://sc.ftqq.com/{}.send'.format(send_key)
+    url = 'https://www.pushplus.plus/{}.send'.format(send_key)
     data = {
         'text': title,
         'desp': body,
