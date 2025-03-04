@@ -1,7 +1,7 @@
 # sspanel-checkin-py
 SSPanel 流量自动签到脚本
 
-## 相关说明
+## 相关说明4
 
 - 适用于使用 SSPanel 用户管理面板搭建的网站，网站页面底部会有 `Powered by SSPANEL` 字段
 - 支持一日多次签到
